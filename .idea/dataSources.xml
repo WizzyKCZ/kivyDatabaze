@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="persons" uuid="476cce32-65fb-49f8-85fa-bf8e469a6a8e">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\Wizzy\OneDrive\Dokumenty\python\kivyDatabaze\persons</jdbc-url>
+    </data-source>
+  </component>
+</project>
