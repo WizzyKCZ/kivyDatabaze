@@ -7,5 +7,11 @@
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
       <jdbc-url>jdbc:sqlite:C:\Users\Wizzy\OneDrive\Dokumenty\python\kivyDatabaze\persons</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="persons [2]" uuid="561ca334-9c1d-49b0-a625-95560a5b8e3f">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\Wizzy\OneDrive\Dokumenty\python\kivyDatabaze\persons.db</jdbc-url>
+    </data-source>
   </component>
 </project>
